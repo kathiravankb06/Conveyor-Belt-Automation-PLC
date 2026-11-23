@@ -96,15 +96,6 @@ Nine test cases are in [`docs/Test_Cases.md`](docs/Test_Cases.md): start, stop, 
 - Motor overload input and a "failed to start" alarm
 - Speed selection with a VFD output
 
-## Repository structure
-
-```
-├── README.md
-├── src/       PLC source (declarations, simulator, ST equivalent)
-├── docs/      Test cases and interview notes
-├── images/    Screenshots (add yours here)
-└── project/   CODESYS project / PLCopenXML export
-```
 
 ## License
 
